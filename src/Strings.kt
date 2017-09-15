@@ -53,6 +53,7 @@ fun main(args: Array<String>){
 
     val hanSentence = "$han has a $blasterColor blaster and flys the $vehicle1"
     println(hanSentence)
+    println("Luke's full name: $luke has ${luke.length -1} characters.")
 
 
 }
