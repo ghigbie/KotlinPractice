@@ -15,10 +15,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CompositionHouse/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CompositionHouse/CompositionHouse.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CompositionHouse/src/com/georgehigbie/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Functions.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloWorld.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Variables.kt" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/68.tree" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/AAAObjectOrientedProgrammingWork/.markers" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/AAAObjectOrientedProgrammingWork/.markers" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/AAAObjectOrientedProgrammingWork/org.eclipse.jdt.core/state.dat" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/AAAObjectOrientedProgrammingWork/org.eclipse.jdt.core/state.dat" />
@@ -144,7 +140,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -179,8 +175,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="354" />
-    <option name="y" value="41" />
+    <option name="x" value="209" />
+    <option name="y" value="43" />
     <option name="width" value="1169" />
     <option name="height" value="830" />
   </component>
@@ -400,7 +396,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="354" y="41" width="1169" height="830" extended-state="0" />
+    <frame x="209" y="43" width="1169" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -491,7 +487,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
           <folding />
         </state>
       </provider>
